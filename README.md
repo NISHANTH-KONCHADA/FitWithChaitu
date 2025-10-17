@@ -22,9 +22,8 @@ View your app in AI Studio: https://ai.studio/apps/drive/1VWByRRZVS03eflv-ZPE45B
 # FitWithChaitu - Fitness Client Management System
 
 FitWithChaitu is a comprehensive web application designed to help fitness coaches , manage their client base efficiently. The platform features a sleek, modern interface for both the coach and potential clients, combining a public-facing informational site with a private, feature-rich management dashboard.
-
-[![Project Screenshot](https://i.imgur.com/39l212G.png)](https://i.imgur.com/39l212G.png)
-_Client Management Dashboard_
+![Add Client Screenshot](https://raw.githubusercontent.com/NISHANTH-KONCHADA/FitWithChaitu/main/screenshots/clientmanage.png)
+Client Management Dashboard
 
 ## ✨ Features
 
@@ -47,9 +46,9 @@ The application is divided into two main parts: the public website and the coach
 
 ## 📸 Screenshots
 
-| Landing Page | Client Login | Dashboard | Consultation Form |
+| Landing Page | Book A Call | Dashboard | Add Client |
 | :---: | :---: | :---: | :---: |
-| ![Landing Page](https://i.imgur.com/C30wY47.png) | ![Client Login](https://i.imgur.com/VpP7fK8.png) | ![Dashboard](https://i.imgur.com/39l212G.png) | ![Consultation Form](https://i.imgur.com/uRkL1T8.png) |
+| ![Landing Page](https://raw.githubusercontent.com/NISHANTH-KONCHADA/FitWithChaitu/main/screenshots/main.png) | ![Book A Call Form](https://raw.githubusercontent.com/NISHANTH-KONCHADA/FitWithChaitu/main/screenshots/main2.png) | ![Dashboard](https://raw.githubusercontent.com/NISHANTH-KONCHADA/FitWithChaitu/main/screenshots/clientmanage.png) | ![Add Client Form](https://raw.githubusercontent.com/NISHANTH-KONCHADA/FitWithChaitu/main/screenshots/addclient.png) |
 
 
 ## 🛠️ Tech Stack (Example)
